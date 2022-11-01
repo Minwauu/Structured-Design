@@ -55,6 +55,11 @@ For the **internal design of the components**, i.e the program source code for s
 
 https://www.youtube.com/watch?v=jfQcKLKvjeQ
 
+Stepwise refinement starts with the **major steps**.
+
+Each major step is then refined into a **more detailed sequence of steps**.
+
+Each one of these more detailed steps is then refined and so on until a stage is reached where the steps can be replaced by programming language statements,
 
 [Problem solving Worksheet 2 Structured programming.pdf](https://github.com/Minwauu/Structured-Design/files/9908945/Problem.solving.Worksheet.2.Structured.programming.pdf)
 
