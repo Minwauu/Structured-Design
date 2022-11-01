@@ -8,4 +8,10 @@
 
 ![image](https://user-images.githubusercontent.com/110039102/199202315-f8664961-2740-4672-b388-275dd3a68b91.png)
 
-**Why is understanding stack frames relevant to understanding the usefulness of recursion?** -
+**Why is understanding stack frames relevant to understanding the usefulness of recursion?** - Stack frames generate every time there is a recursive call which takes up memory and time.
+
+**What is a datum? Give some examples of how a datum could be interpreted.** - A singular piece of data, represented by a series of bits. E.g characters
+
+## Programming paradigms
+
+A paradigm is a standard, perspective, or set of ideas.
