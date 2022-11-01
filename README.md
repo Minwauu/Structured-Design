@@ -35,7 +35,24 @@ A **good** design is an exercise in partitioning and organising the pieces of th
 
 ![image](https://user-images.githubusercontent.com/110039102/199208605-443598aa-9204-4700-bea9-1ccb100f0bda.png)
 
-### Loosely coupled
+![image](https://user-images.githubusercontent.com/110039102/199209203-11669505-7409-4206-977b-6e83d2bc58b4.png)
+
+To minimalise coupling among modules:
+
+- Subroutines or modules should only be allowed to access that data which they need to perform their assigned task
+- All data transfer between modules is visible in the module parameters
+- There must be no hidden flows of data via global variables or shared data areas
+- There should be no control information passing between modules, e.g Boolean flags
+- The number of module parameters should be minimal
+
+![image](https://user-images.githubusercontent.com/110039102/199210515-c25a2e0b-f6c3-49f2-a185-70896b2345d8.png)
+
+### Stepwise refinement
+
+The focus of structured design is the identification of compo[Problem solving Worksheet 2 Structured programming.pdf](https://github.com/Minwauu/Structured-Design/files/9908945/Problem.solving.Worksheet.2.Structured.programming.pdf)
+
+
+
 
 
 
