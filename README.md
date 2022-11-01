@@ -49,7 +49,12 @@ To minimalise coupling among modules:
 
 ### Stepwise refinement
 
-The focus of structured design is the identification of compo
+The focus of structured design is the identification of components of the system and how they interact, i.e the software architecture of the computerised system, and not on the internal design of the components.
+
+For the **internal design of the components**, i.e the program source code for subroutines and the program which calls these subroutines, we use structured programming.
+
+https://www.youtube.com/watch?v=jfQcKLKvjeQ
+
 
 [Problem solving Worksheet 2 Structured programming.pdf](https://github.com/Minwauu/Structured-Design/files/9908945/Problem.solving.Worksheet.2.Structured.programming.pdf)
 
