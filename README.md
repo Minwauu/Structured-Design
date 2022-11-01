@@ -49,7 +49,9 @@ To minimalise coupling among modules:
 
 ### Stepwise refinement
 
-The focus of structured design is the identification of compo[Problem solving Worksheet 2 Structured programming.pdf](https://github.com/Minwauu/Structured-Design/files/9908945/Problem.solving.Worksheet.2.Structured.programming.pdf)
+The focus of structured design is the identification of compo
+
+[Problem solving Worksheet 2 Structured programming.pdf](https://github.com/Minwauu/Structured-Design/files/9908945/Problem.solving.Worksheet.2.Structured.programming.pdf)
 
 
 
